@@ -1,0 +1,4 @@
+this is for runninng the raylib application
+
+
+gcc bouncing_balls.c -o bouncing_balls -I/opt/homebrew/include -L/opt/homebrew/lib -lraylib -framework OpenGL -framework Cocoa -framework IOKit
